@@ -6,16 +6,17 @@
 
 body {
   background-color: #fEE1E8;
+  font-family: 'Courier New', Courier, monospace
 }
 
-.navigation {
+header {
     background-color: #FF89BF;
     position: fixed;
     top: 0;
     width: 100%;
   }
   
-  .navigation a {
+  header a {
     float: right;
     display: block;
     text-align: right;
@@ -29,7 +30,7 @@ body {
     list-style-type: none;
   }
 
-  .navigation a:hover {
+  header a:hover {
     background: #fffbff;
     color: rgb(240, 93, 220);
     font-size: 35px;
@@ -45,6 +46,22 @@ body {
 #lastname {
     color: #fcd7ea;
 }
+
+h2 {
+  color: aqua;
+  font-size: 70px;
+}
+
+.about-me {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    margin: 0 auto 0 auto;
+    width: 90%;
+}
+
+
 
 
 
