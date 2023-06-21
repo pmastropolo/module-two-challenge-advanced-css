@@ -62,7 +62,3 @@ N/A
 ## Features :sparkler:
 
 N/A
-
-### Highlight
-
-==Peyton Mastropolo==
