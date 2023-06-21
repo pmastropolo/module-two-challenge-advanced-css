@@ -4,7 +4,7 @@
 
 A portfolio for me, Peyton Mastropolo, that displays all projects I have worked on. Should also contains recent pictures of me and the best way to contact me.
 
-## Table of Contents :file_folder:
+## Table of Contents:file_folder:
 - [Installation](#installation)
 - [Usage](#usage)
 - [Credits](#credits)
@@ -14,10 +14,9 @@ A portfolio for me, Peyton Mastropolo, that displays all projects I have worked 
 - [Tests](#Tests)
 - [Features](#Features)
 
-## Installation :computer:
+## Installation:computer:
 
 I was provided a gif on what myportfolio should look like.:arrow_down: 
-
 
 ![Inspiration portfolio model](assets\Images\02-advanced-css-homework-demo.gif)
 
@@ -39,6 +38,10 @@ Here are the following links I used to help write my code:
 [Emoji Guide](https://www.w3schools.com/charsets/ref_emoji.asp)
 
 [Flexbox Guide](https://www.youtube.com/watch?v=u044iM9xsWU)
+
+[Background Image](https://www.w3schools.com/html/html_images_background.asp)
+
+
 
 Image Below:
 
