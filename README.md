@@ -2,7 +2,7 @@
 
 ## Description
 
-A portfolio for me, ==Peyton Mastropolo==, that displays all projects I have worked on. Should also contains recent pictures of me and the best way to contact me.
+A portfolio for me, Peyton Mastropolo, that displays all projects I have worked on. Should also contains recent pictures of me and the best way to contact me.
 
 ## Table of Contents:file_folder:
 - [Installation](#installation)
@@ -62,3 +62,7 @@ N/A
 ## Features :sparkler:
 
 N/A
+
+### Highlight
+
+==Peyton Mastropolo==
