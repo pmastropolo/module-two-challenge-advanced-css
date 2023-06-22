@@ -20,6 +20,9 @@ I was provided a gif on what myportfolio should look like.:arrow_down:
 
 ![Inspiration portfolio model](C:\Users\amyhy\challprojects\module-two-challenge-advanced-css\assets\Images\02-advanced-css-homework-demo.gif)
 
+<br> 
+
+
 Github link: https://github.com/pmastropolo?tab=repositories
 
 Portfolio Website Link:
