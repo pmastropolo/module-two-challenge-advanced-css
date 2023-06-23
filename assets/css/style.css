@@ -87,11 +87,11 @@ h2 {
 }
 
 .subway {
-    height: 115px;
+    height: 222px;
     width: 100%;
-    padding: 1.4%;
+    padding: 1.8%;
     margin-bottom: 5%;
-    background-image: url("../Images/hearts.jpg");
+    background-image: url("../Images/p.jpg");
     background-repeat: repeat-x;
     background-size: cover;
     background-position: center;
