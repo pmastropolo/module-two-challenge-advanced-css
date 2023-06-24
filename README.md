@@ -2,7 +2,7 @@
 
 ## Description
 
-A portfolio for me, Peyton Mastropolo, that displays projects I have worked on. Projects week three and four under the section, "Work", have not been done yet, so I gave the image alts coming soon, and the links should not direct anywhere but I added them in my HTML code. Should also contain a recent picture of me and the best way to contact me through phone or email. Portfolio should also display my Github link and a link to my Resume. I am currently working on my resume, so its a link to my linkend that I have not updated in a very long time. I am in the process of updating that as well.
+A portfolio for me, Peyton Mastropolo, that displays projects I have worked on. Projects week three and four under the section, "Work", have not been done yet, so I gave the image alts coming soon, and the links should not direct anywhere but I added them in my HTML code. Same goes for 5, but since I don't have access to it yet, I just customized a coming soon picture so I could have an even layout. Should also contain a recent picture of me and the best way to contact me through phone or email. Portfolio should also display my Github link and a link to my Resume. I am currently working on my resume, so its a link to my linkend that I have not updated in a very long time. I am in the process of updating that as well.
 
 I used HTML & CSS to do this portfolio. I used the hover selector in CSS so when your cursor goes over the links, it should define them more. I also changed the cursor to a more pointer finger, when hovering over my navigation menu. I added a lot of different outlines, box shadows, colors, and a background image to show more defintion and to make it unique to me. 
 
