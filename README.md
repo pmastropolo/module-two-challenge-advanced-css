@@ -27,13 +27,13 @@ I was provided a gif on what my portfolio should look like.:arrow_down:
 
 Github link: https://github.com/pmastropolo?tab=repositories
 
-Portfolio Website Link:
+Portfolio Website Link: https://pmastropolo.github.io/module-two-challenge-advanced-css/
 
 ## Usage :open_file_folder:
 
 Github link: https://github.com/pmastropolo?tab=repositories
 
-Portfolio Website Link:
+Portfolio Website Link: https://pmastropolo.github.io/module-two-challenge-advanced-css/
 
 
 ## Credits
