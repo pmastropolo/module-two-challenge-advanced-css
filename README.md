@@ -18,7 +18,7 @@ I used HTML & CSS to do this portfolio. I used the hover selector in CSS so when
 
 ## Installation:computer:
 
-I was provided a gif on what my portfolio should look like.:arrow_down: 
+I was provided a gif of a sample of what my portfolio should come close to.:arrow_down: 
 
 (![Inspirtation](assets/Images/02-advanced-css-homework-demo.gif))
 
